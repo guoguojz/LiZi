@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sandbox", "Sandbox\Sandbox.vcxproj", "{0C61A035-D0DA-467D-8AD6-22A665BB3C09}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "栗子引擎", "栗子引擎\栗子引擎.vcxproj", "{25EF23AD-30E7-40F9-B5F4-832F50484639}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{25EF23AD-30E7-40F9-B5F4-832F50484639}.Debug|x64.ActiveCfg = Debug|x64
+		{25EF23AD-30E7-40F9-B5F4-832F50484639}.Debug|x64.Build.0 = Debug|x64
+		{25EF23AD-30E7-40F9-B5F4-832F50484639}.Release|x64.ActiveCfg = Release|x64
+		{25EF23AD-30E7-40F9-B5F4-832F50484639}.Release|x64.Build.0 = Release|x64
+		{0C61A035-D0DA-467D-8AD6-22A665BB3C09}.Debug|x64.ActiveCfg = Debug|x64
+		{0C61A035-D0DA-467D-8AD6-22A665BB3C09}.Debug|x64.Build.0 = Debug|x64
+		{0C61A035-D0DA-467D-8AD6-22A665BB3C09}.Release|x64.ActiveCfg = Release|x64
+		{0C61A035-D0DA-467D-8AD6-22A665BB3C09}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C4E97598-1DA8-4A90-AE60-7242FB3088D4}
+	EndGlobalSection
+EndGlobal
